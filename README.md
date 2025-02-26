@@ -14,4 +14,4 @@ This showcases the ability to create plots using .js and then visualize said plo
 
 I did a little extra on the visual aspect and theming. For some reason, I could not get the style.css to work, but since it is just one page, I inserted the style into the header.
 
-Thanks for reading! :))
+Thank you for reading! :))
