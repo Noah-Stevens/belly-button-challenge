@@ -1,5 +1,5 @@
 # belly-button-challenge
-Module 12 Interactive Visualizations Challenge
+Module 14 Interactive Visualizations Challenge
 
 All of work is in the starter code folder.
 
